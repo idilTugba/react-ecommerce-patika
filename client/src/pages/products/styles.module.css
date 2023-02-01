@@ -1,0 +1,10 @@
+.container{
+    padding: 10px;
+    display: grid;
+}
+
+.productDetail{
+    max-width: 80%;
+    text-align: left;
+    margin : 20px auto;
+}
